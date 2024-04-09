@@ -11,3 +11,5 @@ The rover has a camera (ESP32-CAM) that captures live video. To make the video a
 The system can identify different objects like people, cars, and animals using trained models. I also used a module called HuskyLens to improve object detection accuracy.
 
 Overall, this system lets me control the rover, analyze live video, and identify objects efficiently.
+
+(IMP: Create your own environment and pip install yolov8 and all necessary lib)
